@@ -13,7 +13,7 @@ def index():
 
 @app.route('/result', methods=['POST'])
 def results():
-    body = request.form["start_string"];
+    body = request.form["start_string"]
     data = lstm.generate_text(body, generation_length = 2000)
     return data
 

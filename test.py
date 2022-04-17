@@ -40,7 +40,7 @@ def generate_text(start_string, generation_length=1000):
 
 
   text = start_string + ''.join(text_generated);
-  
+  print(text)
   with open('output.abc','w') as f:
     f.write(text)
   return (text)
