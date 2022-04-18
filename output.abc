@@ -1,77 +1,118 @@
-XX:155
-T:He G2F|D3 D2E|!
-A3 A3|BAB d2B|AFA AB=c|BAB cBA|!
-GAB cBA|BAB cBA|dcB BAF AFE|D3 B AFEF|C2EF GBEg|fdd2 AdBc|!
-AB^c d efg2|B3A B3d|cBAB c2dc|BABc ABcA|!
-EFEA ABAF|GFGA BAB egfd|c2bg fdec|BABc AGF:|!
-
-X:3 G2gB|AcBA d2ef|!
-g2b2 bgef|g2bg e2ge|dBAc BG:|!
-Bd|eaaf g2bg|egg2|bgaf g3a|bgaf gedB|!
-A2FA GABc|d2Bd gdBd|edBc dBcA|BEEE ABcG|EAAB cdef|g3f e2fg|!
-eeB2 gBB2|cABd cAB|cAA A2G|E2D D2g|!
-def gab|afd e2d|cee edB|!
-AFA AFA|BEE FAD|FEF E2:|!
-F|GBB BAF|DEF EFE|BAB GED|GEE GAB|cBA BcA:|!
-def fef|gff edB|cBc def|g3 a3|baf d2c|!
-ded cBA|F2A AFA|B2A F2E|F2A B2E|FGA BAF:|!
-GAB BAB|GAB BAF ADD|F2F E2d|BAB AFE|!
-ded cBA|dFF E2B|FED AFA|GEE FEF GFE|!
-FEF AFADF|GFEF ABce|!
-faaf bfaf|e2c'a faec|BeBe ABce|ageB AGF|]!
-
-X:126
-T:Jackies of A/D/E/|F/D/F/bg f2|!
-df/e/ f/B/d/g/|b>e fd|g>f ec|BA ff|ec BA|!
-[1 GF/D/ B/d/f/e/|dB B/A/B/A/|GF DF/D/F/[/|BA Bc|!
-F2 AF/D/|CE EF/c/|A2 A2 F2|cA GE|]!
-
-X:12
-T:85
-M:6/8
+XX:17
+T:Dinky's No. 1
+Z: id:dc-slipjig-1
+M:9/8
 L:1/8
-K:D Major
-gfe dBA|BGB BGB|B3 BcB|cBA BAF|]!
-EGE BAG F3|BAB AGF|G2E G2F =F3|B2A A3:|!
+K:G Major
+e|f2fB B2g2|A2ce c2ec|B2B2 A2GA|BGBd e2d2|!
+eBB2 gBB2g|dBGB cBAG|FEAB c2A2|B2AB c2:|!
+E|FDFG AFDB|ABAGF ABA|G3E F3:|!
 
-X:17
-T:Hulling Piping Lilgtonce-5
+
+X:89
+T:Roltsy's
+Z: id:dc-slipjig-23
+M:2/4
+L:1/8
+K:A Mixolydian
+eB2A2 fAAB|cAA2 BAB2|cBce e2|]!
+
+X:246
+T:Jockny Concy
+Z: id:dc-reel-33
 M:C
 L:1/8
 K:G Major
-DEFG AFDF|GFGA BGdB|cBcB ABcB|dcBA BdAF|GFEF B2FA|BdAF E2B2|!
-cABc A2ce|dcBA BAGE|EFGA BABc|dBGe =cABG|EcAG FED2:|!
-dcf2 Aff2|f2bg agfd|g2bg fdc=B|ABce d2AG|F2AF ABcB|A|]!
-B2ge c2Bc|dBAF G3G|ABcB ABce|!
-g2fg egce|dedB G2:|!
+cd|e3f g2gf|g2fg edcB|cA B2|!
+GBd g3|BAB dcB|cBA GFE|!
+FEE E2A|BAF ABc|BAF E2,/:|!
+DE|FAA ABA|A2F A3|BAG FAF|FEF A3:|!
 
-X:134
-T:Liss EDE|B,D2CD EDB,||EGB AF:|!
-B|eBB eBe|dBA ABA|GAB cAF|GAB cB2|efe e2g|!
-f3 f3|e2e efe|deg f3|edB edB|!
-cBA B2A|dAF F2E|BAB E3|ABA A2B|E2E E2D:|!
-g2e ede|fed e2g|fed g3|!
-a2e'a b2ean
-ce|f2df e2dc|B2BA BBAF|EDB,D CEEA,|DEFG AFDB|Addc BABc|d2AB A3|]!
+X:26
+T:Jeck
+Z: id:dc-jig-54
+M:6/8
+L:1/8
+K:G Major
+f|g2b a2g|f2d d2|B2 A2 F2|E4 A2|!
+d2f2 d2e e2dB|c2AB cBc2|BABc dBAF|F2ED EA,CE|]!
 
-X:1265
-T:Where's Chair
+X:12
+T:Jockey Whel to the Rethers
+Z: id:dc-slipjig-15
+M:9/8
+L:1/8
+K:A Major
+g|fedB ABd/c/|BE E2|fe/f/ reybripn
+Z: id:dc-reel-233
+M:C
+L:1/8
+K:D Major
+d|cBA GED|BcB FBB|BAB dAF FED|!
+FAF GFE|BGE FEF GFE|BdB AFD|!
+DFA AFA|BGB AFA|def afg|fbb f2bg|fdcA BG:|!
+f|g3-315
+M:C
+L:1/8
+K:A Dorian
+A,|D3F ABAF|F2AF BEE2|Bee2 B2AF|E2FE F2AG|F2E2 DFGA|!
+B2B2 e2dc|BABc d2Bd|edBc dcBA|BAGF E2:|!
+
+X:124
+T:Omer Strek's
+Z: id:dc-ocarolan-10
+M:gf e5
+T:Jockes of Souttick's
+Z: id:dc-reel-245
+M:C
+L:1/8
+K:D Major
+Ae|f2A2 fee2|eaag efge|dBGA d2ef|c3c BAGF|EGFE D2FA|Bee2 B2A2:|!
+dedB G3B|A2FA BAFA|E3B ABde|fdec B3:|!
+e|f2df edef|g3f e2de|gb2 g2|]!
+
+X:55
+T:Jig Bc/B/ c/B/A/G/|F2 D2:|!
+ff g>a|g3 e g>f|g2 gg|!
+f4 eg|ab ag/2/8
+K:D Major
+d/B/|AF FF|EC E2|D2 E2 E2|D2:|!
+cB Bc/e/|dB AFED|EFE FEE:|!
+Bee efg|BeB eAce|f2ec BAFA|!
+BAB2 cBcB|AGFE DAFA|B3d AGFD|EAA2 BAA2|!
+EAAB AGED|G3E DEG=c|A3B cABc|dGdF A3d|cABc d2fg|
+M:C
+L:1/8
+K:D Mixolydian
+ed|cAA2 cAA2|cAcA eAcA:Blide-52
+M:6/8
+L:1/8
+K:D Major
+e|fBB B2A|F2E FED|CEA,2|B2AGEFE2 D2:|!
+
+X:39
+T:Eavis Brooskey
+Z: id:dc-reel-124
+M:C
+L:1/8
+K:A Dorian
+E3F ABAF|E2BE BFAF|Add2 ABAG|FEFE EDFG|A2ce a3e|!
+dcBA GEDE|E2ee cBAG|DEFG ABcA|Beed cAGB|AGAB cBcA:|!
+[1 g2dg bged|c2Bc AcBc|dedd BABc|dBcA FEDc|B2ab afde|f2df e2d2|]!
+
+
+X:24
+T:Bab of Whishey
 Z: id:dc-reel-244
 M:C
 L:1/8
-K:E Dorian
-de|f2df e2de|g2bg fgeg2|fbb2 f2eg|fdec Bece|!
-f2df dfec|dBB2A FAD|FEE EFE|FEF AFG|FAD FAFd|!
-AFDc BAF|F2E E2D|!
-B3 edB|A3 BAF|DFA ABd|cAF F2G|]!
+K:G Major
+fg|agfa gfdf|e2cd Bdef|gedB A3c|d2cB d2|]!
 
-X:24
-T:Whelert Shitd
-Z: id:dc-ocarolan-6
-M:C|
+X:312
+T:Dlurky's
+Z: id:dc-slide-18
+M:6/8
 L:1/8
-K:D Major
-B|ABA FA dAF|AFA F2A|B2E F2F|E3 E2D|!
-GFE F2E|Afe dcB|A3 B3|FdA F2G|FAF E2E:|!
-DGB cBA|BdB Bfd|BGF F2A|EFe f3|afd cAG|EFG AFD|F2E E2D|!
-B/c/|d/B/c dB|A2 A2 BA/B/|cA G/F/G/|A,3EE AB=cA|Bdde fdBc|!
+K:A Mixolydian
+B|e
