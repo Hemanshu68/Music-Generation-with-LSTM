@@ -18,7 +18,7 @@ def results():
     data = lstm.generate_text(body, generation_length = 2000)
     text  = mdl.extract_song_snippet(data)
     
-    return render_template('results.html', data = text);
+    return render_template('results.html', data = text)
 
 
 if __name__ == "__main__":

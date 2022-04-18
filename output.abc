@@ -1,118 +1,100 @@
-XX:17
-T:Dinky's No. 1
-Z: id:dc-slipjig-1
-M:9/8
-L:1/8
-K:G Major
-e|f2fB B2g2|A2ce c2ec|B2B2 A2GA|BGBd e2d2|!
-eBB2 gBB2g|dBGB cBAG|FEAB c2A2|B2AB c2:|!
-E|FDFG AFDB|ABAGF ABA|G3E F3:|!
+DG||GBAG FDD2:|!
 
-
-X:89
-T:Roltsy's
-Z: id:dc-slipjig-23
-M:2/4
+X:154
+T:Jellor Wate
+Z: id:dc-slide-27
+M:6/8
 L:1/8
 K:A Mixolydian
-eB2A2 fAAB|cAA2 BAB2|cBce e2|]!
+ef|g2ag f2fd|eage faec|Bcdc|BAGF E2DE|!
+F2FA D2FA|BEE2 BFAF|EFE:|!
 
-X:246
-T:Jockny Concy
-Z: id:dc-reel-33
+X:4
+T:Sweet
+Z: id:dc-jig-185
+M:6/8
+L:1/8
+K:A Mixolydian
+d ef/g/|agfg egeg|fedB AFFA|(3ABA FA DAFA|BABc ecAF|G2BG d2BG F2FA|!
+BcBc B2FB|ABcE EDD2|B3A GEFA BEE2B2:|!
+G2dG BAG|BB^F GFE:|!
+
+X:143
+T:O/e/f/e/ dc|BA F2|A2 D2:|!
+f2 ed|b2 cea2|g2bg f2fd|cBcG eged|c2Bc EBAF|BEEE EFDB|!
+cBAB =fedf|c2gc BABcB|dBAF ABde|f2df e2de|!
+[2 f2ef gfed|Beed B2A2|A2FA F2A,2|B,A,A,2 B,G,A,2|B2/e/ ce|B2 d2 B2|AB cd f2|!
+e2 e2 e2|ee a2 g2|B3 g e2|f3 e d2:|!
+de|defg Bage|dBBA BGEF|D2FA BFAF|ABB2 B3c|dBAF EBdB|!
+cAAc dBdB|cBAB cAFel-155
 M:C
 L:1/8
-K:G Major
-cd|e3f g2gf|g2fg edcB|cA B2|!
-GBd g3|BAB dcB|cBA GFE|!
-FEE E2A|BAF ABc|BAF E2,/:|!
-DE|FAA ABA|A2F A3|BAG FAF|FEF A3:|!
+K:A Mixolydian
+ef|g3c AGF2|EGAB cdef|geag a32|efec B2:|!
+Bc|defd ceBf gfed|cdef gfga|gedc AG|FDAF GABc|d2c2 BAFA|EFGE FDD2:|!
+fedB AGFA|BAB2 dBAB|dBB2 G:Herley
+Z: id:dc-slipjig-4
+M:9/8
+L:1/8
+K:D Major
+cd|edc B3|AdB AFA|BdB ABA|BdB A2F|!
+dcA AGE|c3 B2A|BAF E2F AFA|Bdd AGF|!
+GFG EFE|dBA AFA|BEE BEE:|!
+B2e ede|g3 agf|g3 ged|!
+earte's
+Z: id:dc-hornpipe-25
+M:C|
+L:1/8
+K:D Major
+f|g2g^f g2ag|f2e2 c2ec B2Bc|dedf g2a|]!
 
-X:26
-T:Jeck
-Z: id:dc-jig-54
+X:14
+M:6/8
+T:Shing Hohe to Al to the Whiske
+Z: id:dc-hornpipe-59
+M:C|
+L:1/8
+K:G Major
+A|B2BA BAFA|DFAF DFAF|G2BG AFDE2|BcBA G3B|A2FA, D2:|!
+FE|DEFD EDCE|DFAF BFAB|DFAF EFE2|F4 ADFD|EFGAB|c2gc BGBc|!
+dcdA B2g2|g2B2B2 d2eg|fdcA BGGB|cBcA BGG2:|!
+
+X:1358
+T:An DncDoly's
+Z: id:dc-jig-5
 M:6/8
 L:1/8
 K:G Major
-f|g2b a2g|f2d d2|B2 A2 F2|E4 A2|!
-d2f2 d2e e2dB|c2AB cBc2|BABc dBAF|F2ED EA,CE|]!
+EFE AFA|BAG FDF:|!
+EGA BdB|AGF GBE|AGA ded|BAB EGF GAB|!
+g3 g3|g3 g3|GFG E2G:|!
 
-X:12
-T:Jockey Whel to the Rethers
-Z: id:dc-slipjig-15
-M:9/8
+X:143
+T:New-Rigen Sur to the Dals
+Z: id:dc-jig-42
+M:6/8
 L:1/8
-K:A Major
-g|fedB ABd/c/|BE E2|fe/f/ reybripn
-Z: id:dc-reel-233
+K:E Dorian
+ed|cdef gfge|dBGB cBcA|GBdA ccBA|eA=cA GEE2|!
+DFAB cBcA|Bee2 d3e|fdAF ADD2|]!
+
+X:104
+T:Jackiespolk
+Z: id:dc-reel-224
 M:C
 L:1/8
 K:D Major
-d|cBA GED|BcB FBB|BAB dAF FED|!
-FAF GFE|BGE FEF GFE|BdB AFD|!
-DFA AFA|BGB AFA|def afg|fbb f2bg|fdcA BG:|!
-f|g3-315
-M:C
-L:1/8
-K:A Dorian
-A,|D3F ABAF|F2AF BEE2|Bee2 B2AF|E2FE F2AG|F2E2 DFGA|!
-B2B2 e2dc|BABc d2Bd|edBc dcBA|BAGF E2:|!
+dc|B2BB AGFE|D3F AF2E|F2ED EFGA|B2BA BAGFE|!
+DB|ABA ABA|FAA F3|FEF D3:|!
+dc BAFE|DFAG ABde|f2ec BcBA|FdAF E2DE|FAFD A3:|!
 
-X:124
-T:Omer Strek's
-Z: id:dc-ocarolan-10
-M:gf e5
-T:Jockes of Souttick's
-Z: id:dc-reel-245
-M:C
-L:1/8
-K:D Major
-Ae|f2A2 fee2|eaag efge|dBGA d2ef|c3c BAGF|EGFE D2FA|Bee2 B2A2:|!
-dedB G3B|A2FA BAFA|E3B ABde|fdec B3:|!
-e|f2df edef|g3f e2de|gb2 g2|]!
-
-X:55
-T:Jig Bc/B/ c/B/A/G/|F2 D2:|!
-ff g>a|g3 e g>f|g2 gg|!
-f4 eg|ab ag/2/8
-K:D Major
-d/B/|AF FF|EC E2|D2 E2 E2|D2:|!
-cB Bc/e/|dB AFED|EFE FEE:|!
-Bee efg|BeB eAce|f2ec BAFA|!
-BAB2 cBcB|AGFE DAFA|B3d AGFD|EAA2 BAA2|!
-EAAB AGED|G3E DEG=c|A3B cABc|dGdF A3d|cABc d2fg|
+X:255
+T:Up Wwee Kell
+Z: id:dc-ocarolan-5
 M:C
 L:1/8
 K:D Mixolydian
-ed|cAA2 cAA2|cAcA eAcA:Blide-52
-M:6/8
-L:1/8
-K:D Major
-e|fBB B2A|F2E FED|CEA,2|B2AGEFE2 D2:|!
-
-X:39
-T:Eavis Brooskey
-Z: id:dc-reel-124
-M:C
-L:1/8
-K:A Dorian
-E3F ABAF|E2BE BFAF|Add2 ABAG|FEFE EDFG|A2ce a3e|!
-dcBA GEDE|E2ee cBAG|DEFG ABcA|Beed cAGB|AGAB cBcA:|!
-[1 g2dg bged|c2Bc AcBc|dedd BABc|dBcA FEDc|B2ab afde|f2df e2d2|]!
-
-
-X:24
-T:Bab of Whishey
-Z: id:dc-reel-244
-M:C
-L:1/8
-K:G Major
-fg|agfa gfdf|e2cd Bdef|gedB A3c|d2cB d2|]!
-
-X:312
-T:Dlurky's
-Z: id:dc-slide-18
-M:6/8
-L:1/8
-K:A Mixolydian
-B|e
+ef|g2fg e2dB|cBAG FGAB|=cAAG ABc2|!
+eBB2 g3|a3 a3|gdB c2d|e2d B2A|!
+AFA ABA|efd eAA AB/c/d|ed B2|A4 BA|!
+[1 ed ef/e/|cB Bc|A
